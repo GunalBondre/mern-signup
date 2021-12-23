@@ -1,6 +1,3 @@
-import Dropdown from "./component/Dropdown";
-import { useState } from "react";
-import SelectDropdown from "./component/select/SelectDropdown";
 import Signup from "./component/Signup";
 
 function App() {
